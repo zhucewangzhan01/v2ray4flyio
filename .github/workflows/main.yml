@@ -1,4 +1,4 @@
-name: Fly Deploy 123
+name: Fly Deploy
 on: 
   push:
   schedule:
